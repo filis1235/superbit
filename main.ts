@@ -1,4 +1,4 @@
-basic.showIcon(IconNames.Heart)
+basic.showIcon(IconNames.Happy)
 SuperBit.Servo2(SuperBit.enServo.S1, 0)
 SuperBit.Servo2(SuperBit.enServo.S1, 0)
 SuperBit.Servo2(SuperBit.enServo.S1, 0)
